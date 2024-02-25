@@ -1,0 +1,7 @@
+UsersTcId,UserName,UserSurNamel,UserFatherName,UserGender,UserDateOfBirth,UserMailAddress,UserAdress,UserCity,UserState,UserAccountNumber
+1234567891,John,Doe,John Doe Sr.,1,2024-01-03,john.doe@example.com,123 Main Street,Anytown,CA,null
+13131313131,osman hayek,osman hayek,valid,1,3824-01-01,xxxxx@xxxxx.xxxx,aaaa,vvvvv,cccc,84873958-31e8-4362-a817-ae10a6982de6
+14141414141,asdas,asdas,dasdas,1,3824-01-01,dsadas@sadasd.dasdas,dsadsa,dsadsa,dsadsad,6c1a9aa6-f953-4506-a8b4-9c1f01a79e6e
+14785236987,osman,osman,valid,1,3824-01-01,osman.hayek111@gmail.com,asdasdsa,asaa,assa,d3cddafc-4804-4182-9286-98aefc351d31
+15151515151,osman,osman,asdsa,1,3824-01-01,xxx.xxx@asdsd.asdsa,asdasda,dasdasd,dasda,0fb6b221-8350-4183-8657-ab12f3248270
+16161616161,hayek osman,hayek osman,valid,0,3824-01-01,noYes@gmail.com,noYes,Yesno,nnnno,7df2a42f-99ac-4745-baf5-5a5bc92aab88
